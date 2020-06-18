@@ -3,7 +3,7 @@ Some of the algorithms of the book Algorithms for optmization from Michael Koche
 
 Algorithms implemented until now:
 
-1- Adaptative Simulated Annealing\n
+1- Adaptative Simulated Annealing
 2 - Augmented Lagrange
 3 - BFGS
 4 - Bracket Line search ( Search Algorithm)
