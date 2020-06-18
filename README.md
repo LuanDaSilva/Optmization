@@ -34,6 +34,6 @@ Algorithms implemented until now:
 29 - Stong Backtracking<br />
 ... and a decorator to check the performance
 
-
+To check the algorithms, one should use the <a href="https://en.wikipedia.org/wiki/Test_functions_for_optimization"> Test Functions </a> 
 
 
